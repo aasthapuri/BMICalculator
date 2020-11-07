@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BMIModel</string>
+    <string name="your_weight">your weight</string>
+    <string name="your_height">your height</string>
+    <string name="compute_bmi">compute bmi</string>
+</resources>
